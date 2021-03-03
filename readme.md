@@ -14,4 +14,4 @@ The project description
 * 2
 * 3
 
-### This changes will be praised by team
+### This changes will be praised by team (or not)
