@@ -5,3 +5,8 @@ The project description
 * 1
 * 2
 * 3
+
+## Security focus
+* 1
+* 2
+* 3
